@@ -1,0 +1,108 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.2;
+  letter-spacing: 1.1;
+}
+.logo {
+  color: #4d5ae5;
+  width: 115px;
+  height: 24px;
+  top: 3088px;
+  left: 156px;
+  font-family: Raleway;
+  font-weight: 700px;
+  font-size: 18px;
+  line-height: 0.8;
+  vertical-align: middle;
+  text-transform: uppercase;
+  width: 44px;
+  height: 21px;
+}
+.logo-studio {
+  color: #2e2f42;
+}
+.baslik {
+  color: #2e2f42;
+}
+.baslik:hover {
+  color: #404bbf;
+}
+.baslik :active {
+  color: #404bbf;
+}
+.iletisim {
+  color: #434455;
+}
+.iletisim:hover{color:#404bbf;
+}
+
+
+.ilkalan {background-color: #2e2f42;
+text-align:center }
+h1 {
+  color: #ffffff;
+  size: 56px;
+  width: 1440px;
+  height: 600px;
+  top: 72px;
+  font-weight: 700px;
+  font-size: 56px;
+  line-height: 0.9;
+  text-align: center;
+  vertical-align: middle;
+}
+button {
+  width: 169;
+  height: 56;
+  top: 428px;
+  left: 636px;
+  gap: 10px;
+  padding-top: 16px;
+  padding-right: 32px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  border-radius: 4px;
+  background: #4d5ae5;
+  cursor: pointer;
+  color:#ffffff;
+}
+button:hover {
+ background-color: #404bbf;
+}
+footer {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 312px;
+}
+.footer-logo {
+  color: #4d5ae5;
+  width: 115px;
+  height: 24px;
+  top: 3088px;
+  left: 156px;
+  font-family: Raleway;
+  font-weight: 700px;
+  font-size: 18px;
+  line-height: 0.8;
+  vertical-align: middle;
+  text-transform: uppercase;
+  width: 44px;
+  height: 21px;
+}
+.studio {
+  color: #f4f4fd;
+}
+.footer-text {
+  color: #ffffff;
+  width: 264px;
+  height: 72px;
+  top: 3128px;
+  left: 156px;
+  font-family: Roboto;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 2%;
+}
