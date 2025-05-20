@@ -42,6 +42,8 @@ body {
   background-color: #2e2f42;
   width: 1440px;
   height: 600px;
+  justify-content: center;
+  align-items: center;
   }
 h1 {
   color: #ffffff;
